@@ -1,1 +1,1 @@
-web: gunicorn dpdjango.wsgi
+web: gunicorn dpdjango:app
